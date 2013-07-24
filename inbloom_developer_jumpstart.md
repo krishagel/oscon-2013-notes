@@ -30,7 +30,7 @@ two core services
 		- not a search engine (although there is an index)
 		- not replacing any products out there
 		
-inbloom.org/fordevelopers - sandbox available today
+inbloom.org/for-developers - sandbox available today
 
 example apps available on GitHub
 
@@ -39,4 +39,6 @@ september 30th can become a core contributor to the data store
 @inbloomdev
 
 tomorrow an open source planning session @10:40am
+
+@jasonhoekstra - developer engagement
 
