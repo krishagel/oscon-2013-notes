@@ -1,4 +1,6 @@
 oscon-2013-notes
 ================
 
-All my notes from sessions I was at at OSCON 2013
+All of our notes from sessions attended at O'Reilly OSCON 2013 in Portland, OR
+
+
