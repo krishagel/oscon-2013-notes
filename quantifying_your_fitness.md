@@ -1,6 +1,6 @@
 ###Quantifying Your Fitness
 
-Kristen Jones
+Kristen Jones - @synedra - [www.princesspolymath.com](www.princesspolymath.com)
 
 It doesn't matter how super accurate the tracker is that you're using.
 
@@ -28,3 +28,4 @@ Myfitnesspal is the best food logger.
 
 Runno / jog of war is another fun game on iphone.
 
+fitocracy is another game type fitness app
